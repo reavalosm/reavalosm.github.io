@@ -1,6 +1,0 @@
-title: "Tu Blog de Física"
-description: "Cálculos, sistemas físicos y análisis teórico"
-theme: jekyll-theme-cayman
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
